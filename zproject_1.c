@@ -1,3 +1,4 @@
+// Guessing the number game using c programming.
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
@@ -26,4 +27,5 @@ int main(){
           nguesses++;
     }while(guess!=number);
 return 0;
+
 }
